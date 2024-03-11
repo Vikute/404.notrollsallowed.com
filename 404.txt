@@ -28,6 +28,9 @@ into some framework" type of topics.
   PR163 Intro: No Trolls Allowed #12 .................................... @pawka
   PR239 Kodėl tentas yra geriausias stovyklautojo įrankis ............... @pawka
   PR240 Litavimo ir elektronikos dirbtuvės visiems .................... @kareiva
+  PR241 Badmintono pasižaidimai ......................................@Viktorija
+
+
 
 --[ SOUND ]
 
